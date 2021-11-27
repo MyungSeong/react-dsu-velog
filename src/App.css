@@ -1,0 +1,7 @@
+.app-container {
+    width: 500px;
+    height: 100%;
+    border: 1px solid red;
+    margin: 0px auto;
+    padding: 10px;
+}
